@@ -5,6 +5,8 @@ Business analysis of a multi-table sales database using PostgreSQL, uncovering r
 ## Dataset
 The Northwind database — a sample relational dataset representing a trading company, with 14 linked tables including customers, orders, order details, products, categories, employees, and shippers. Loaded locally into PostgreSQL 16.
 
+*Note: Northwind is a widely-used public sample dataset for SQL practice — not proprietary or self-collected data. All queries, analysis, and insights in this project are original work.*
+
 ## Tools
 PostgreSQL, SQL (joins, CTEs, window functions, conditional aggregation)
 
